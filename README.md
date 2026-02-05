@@ -1,7 +1,3 @@
-<div align="center">
-  ## **Fanantenana-Valisoa**
-  </div>
-  ---
 <p align="center">
   
   <img src="fana.jpg" alt="Valisoa - Full Stack Developer" width="600" />
@@ -10,6 +6,7 @@
 ---
 
 <div align="center">
+  ## **Fanantenana-Valisoa**
 
 ### *Full-Stack Developer | Data Engineer*
 
