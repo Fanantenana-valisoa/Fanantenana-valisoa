@@ -4,11 +4,9 @@
 </p>
 
 ---
-
-## **Valisoa** 👨‍💻
+## **Valisoa** 
 ### *Full-Stack Developer | Blockchain Data Engineer*
 
-</div>
 ---
 
 ## 🔗 Connect With Me
