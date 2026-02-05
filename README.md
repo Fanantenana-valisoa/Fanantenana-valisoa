@@ -47,7 +47,7 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 ---
 ## 💼 Tech Stack & Expertise
 ### **Frontend & Web**
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br/>
