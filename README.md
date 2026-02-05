@@ -6,12 +6,10 @@
 ---
 
 <div align="center">
-  ## **Fanantenana-Valisoa**
-
+## **Fanantenana-Valisoa** 👨‍💻
 ### *Full-Stack Developer | Data Engineer*
 
 </div>
-
 ---
 
 ## 🔗 Connect With Me
