@@ -1,4 +1,5 @@
 <p align="center">
+  ## **Fanantenana-Valisoa**
   <img src="fana.jpg" alt="Valisoa - Full Stack Developer" width="600" />
 </p>
 
@@ -6,7 +7,6 @@
 
 <div align="center">
 
-## **Fanantenana-Valisoa**
 ### *Full-Stack Developer | Data Engineer*
 
 </div>
