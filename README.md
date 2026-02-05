@@ -11,5 +11,5 @@
 - Linux / Git / GitHub
 
 ### 📫 Me contacter
-- Email : ...
-- LinkedIn : ...
+- Email : valisoafanantenana131@gmail.com
+- Facebook:Fanantenana Valisoa.
