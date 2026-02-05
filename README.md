@@ -139,8 +139,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
       Linux
     </td>
       <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/vscode-original.svg" width="60"/><br/>
-      vscode
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/postman-original.svg" width="60"/><br/>
+      postman
     </td>
   </tr>
 </table>
