@@ -198,7 +198,12 @@ I’m open to:
 - 💡 sharing knowledge and progress  
 
 📬 **Feel free to reach out** — let’s grow step by step, one commit at a time 🚀
+<div align="center">
 
+### **Made with by Fanantenana**
+*Building the future, one line of code at a time.*
+
+</div>
 
 
 
