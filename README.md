@@ -20,6 +20,7 @@
   alt="React"
   style="border-radius: 50%; background-color: #20232A; padding: 10px;"
 />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> <br/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
 </p>
 <p></p>
