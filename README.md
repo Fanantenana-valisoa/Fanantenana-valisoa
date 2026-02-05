@@ -5,8 +5,8 @@
 
 ---
 
-## **Tomefy** 👨‍💻
-### *Full-Stack Developer | Blockchain Architect | AI & Data Engineer*
+## **Valisoa** 👨‍💻
+### *Full-Stack Developer | Blockchain Data Engineer*
 
 </div>
 ---
