@@ -16,7 +16,7 @@
 <p align="center">
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  width="60"
+  width="100"
   alt="React"
   style="border-radius: 50%; background-color: #20232A; padding: 10px;"
 />
