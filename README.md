@@ -1,44 +1,52 @@
-## 👋 Salut, moi c'est Valisoa
+<p align="center">
+  <img src="fana.jpg" alt="Valisoa - Full Stack Developer" width="600" />
+</p>
 
-🎓 Étudiant en informatique  
-💻 Développeur Web / Mobile  
-🔐 Intéressé par la cybersécurité (Pentest)
+---
 
-### 🚀 Technologies
-- JavaScript / React / React Native
-- Java / Swing
-- PHP / MySQL
-- Linux / Git / GitHub
+<div align="center">
 
-### 📫 Me contacter
-- Email : valisoafanantenana131@gmail.com
-- Facebook:Fanantenana Valisoa.
+## **Fanantenana-Valisoa**
+### *Full-Stack Developer | Data Engineer*
 
-  <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-    <br/>
-    <strong>React</strong>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
-    <br/>
-    <strong>JavaScript</strong>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
-    <br/>
-    <strong>Java</strong>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
-    <br/>
-    <strong>PHP</strong>
-  </div>
 </div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+### **Professional & Social Networks**
+
+| Platform | Link | Focus |
+|----------|------|-------|
+| 📧 **Email** | [valisoafanantenana131@gmail.com](mailto:valisoafanantenana131@gmail.com) | Direct contact |
+| 💼 **LinkedIn** | [/in/fanantenana-valisoa-849282336/](https://www.linkedin.com/in/fanantenana-valisoa-849282336/) | Professional profile & opportunities |
+| 🌐 **Portfolio** | [fanantenana-dev.vercel.app](https://fanantenana-dev.vercel.app) | Projects & work showcase |
+### **Quick Links**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valisoafanantenana131@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanantenana-valisoa-849282336/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://fanantenana-dev.vercel.app)
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **versatile engineer** from Madagascar committed to building intelligent, scalable, and decentralized solutions. Currently studying computer science, I combine theoretical knowledge with hands-on expertise across **full-stack development, blockchain architecture, and AI/ML engineering**.
+
+**What drives me:**
+- 🔗 **Blockchain & Web3** — Building decentralized ecosystems with Hedera, Sui, and Solidity
+- 💡 **Intelligent Systems** — Implementing ML models and AI-powered applications
+- 📊 **Data Engineering** — Processing, analyzing, and extracting insights from complex datasets
+- 🌐 **Full-Stack Architecture** — Designing scalable, secure, and performant applications
+- 🤖 **Automation & DevOps** — Orchestrating deployments and infrastructure at scale
+- 🌱 **Continuous Innovation** — Mastering emerging technologies and methodologies
+
+---
+## 💼 Tech Stack & Expertise
+### **Frontend & Web**
 <table align="center">
   <tr>
     <td align="center">
