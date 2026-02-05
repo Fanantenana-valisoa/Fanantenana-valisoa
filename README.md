@@ -5,9 +5,8 @@
 
 ---
 
-<div align="center">
-## **Fanantenana-Valisoa** 👨‍💻
-### *Full-Stack Developer | Data Engineer*
+## **Tomefy** 👨‍💻
+### *Full-Stack Developer | Blockchain Architect | AI & Data Engineer*
 
 </div>
 ---
