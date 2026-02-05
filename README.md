@@ -140,6 +140,65 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
     </td>
   </tr>
 </table>
+## 📚 Learning Path & Focus Areas
+
+### 🌐 Web Development
+- ✅ Frontend basics: HTML, CSS, JavaScript
+- ✅ Modern frameworks: React, Next.js (bases)
+- ✅ Responsive design & UI fundamentals
+- ✅ Component-based architecture
+- ✅ Basic accessibility principles
+
+### 🧩 Backend Development
+- ✅ Server-side fundamentals with Node.js
+- ✅ REST API concepts (CRUD, routes, controllers)
+- ✅ Backend frameworks: Express (basics), Django (introduction)
+- ✅ Authentication & authorization concepts
+- ✅ Connecting frontend with backend APIs
+
+### 🗄️ Databases
+- ✅ Relational databases: MySQL, PostgreSQL
+- ✅ NoSQL : MongoDB
+- ✅ Basic SQL queries 
+- ✅ Data modeling concepts
+
+### 🧠 Programming & Algorithms
+- ✅ Programming logic & problem solving
+- ✅ Conditions, loops, and functions
+- ✅ Arrays & basic data structures
+- ✅ Object-Oriented Programming (Java, JavaScript)
+- ✅ Code optimization fundamentals
+
+### 🛠️ Tools & Workflow
+- ✅ Git & GitHub (version control basics)
+- ✅ Linux command line fundamentals
+- ✅ Debugging & error handling
+- ✅ Code organization & clean code basics
+
+---
+
+## 🎯 Currently Learning & Improving
+
+- 🔄 **Java & OOP concepts** — classes, objects, inheritance
+- 🌐 **Modern JavaScript (ES6+)** — async/await, modules
+- ⚛️ **React Fundamentals** — hooks, props, state
+- 🗃️ **Databases** — relationships, joins
+- 🔐 **Cybersecurity Basics** — Linux, networking, intro to pentesting
+- 🚀 **Personal Projects** — small apps to practice real-world use cases
+
+---
+
+## 💬 Let’s Learn & Build Together
+
+I’m actively learning and improving my skills through projects and practice.
+
+I’m open to:
+- 🤝 collaboration on beginner-friendly projects  
+- 📖 learning with other developers  
+- 💡 sharing knowledge and progress  
+
+📬 **Feel free to reach out** — let’s grow step by step, one commit at a time 🚀
+
 
 
 
